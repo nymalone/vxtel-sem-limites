@@ -1,4 +1,5 @@
-# VxTel
+
+![logo](https://user-images.githubusercontent.com/54912285/74965164-78f98c00-53f3-11ea-98bc-c90f3911ffaa.png) 
 
 ## Getting Started
 * Clone or dowload this repo
